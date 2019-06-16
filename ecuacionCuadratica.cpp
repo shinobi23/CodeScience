@@ -66,7 +66,7 @@ int main(void) {
 				}
 	else 
 	if (delta<0){
-		cout<<"dos raices complejas conjugadas. La parabola no corta al eje de las abscisas.(¡unidad imaginaria!)"<<endl;
+		cout<<"dos raices complejas conjugadas. La parabola no corta al eje de las abscisas.(Â¡unidad imaginaria!)"<<endl;
 				}
 	cout<<"-----------------------------------------------------------------------------------------------------"<<endl;
 	
